@@ -1,3 +1,7 @@
+"""
+So what is Manage.py?
+Its a command line utility that helps us with interacting our django project.
+"""
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
